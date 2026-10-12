@@ -1,0 +1,11 @@
+# Channel profile
+- niche: Money & Psychology (economics, scams, business rises/falls, human behavior) — picked by skill: finance-tier RPM adjacency, evergreen, high visual yield
+- language: English
+- style_preset: 2D Illustrator (preset id: pending first render)   # fallback: Whiteboard Doodle
+- preset_media_id: (pending first render)
+- style_key_job_id: (pending first render)   # 16:9 — derived at first render, then attached to every clip
+- voice: documentary/narrator intent, calm and deep over bright and salesy (pending first render)
+- aspect: 16:9 · character: faceless · subtitles: off
+- length_policy: auto
+- delegated_at_setup: style, voice, length, shorts settings — skill decides, user overrides anytime
+- created: 2026-10-12
